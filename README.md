@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning NLP
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : Email(Surajharlekar@gmail.com)
-- 😄 Pronouns: G
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: ...
 
 <!---
